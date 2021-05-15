@@ -7,7 +7,7 @@
     </td>
     <td width="85%">
       <h1>About Me</h1>
-      <p><b>Dr. in Cyber Security.</b></p>
+      <p><b><font size="4">Dr. in Cyber Security.</b></p>
       <p><b>Cyber Security scientist in Lenovo Global Security Lab.</b></p>
     </td>
     
@@ -16,7 +16,7 @@
 
 
 
-# Education
+## Education
 ### Institute of Information Engineering, CAS; University of Chinese Academy of Sciences. 09/2015-07/2021
 Ph.D in Cyber Security
 
