@@ -15,63 +15,52 @@
   </tr>
 </table>
 
+### Research Interests.
+My research interestes lie in data privacy, privacy-preserving machine learning, Cryptography and Secure Protocols. Recently I am focusing on privacy-preserving machine learning and its interaction with cryptography.
+
+
 ### News
-<p>On 9th May 2021, I passed my disertation defense, I am going to receive my ph.D degree!</p>
+On 9th May 2021, I passed my disertation defense, I am going to receive my ph.D degree!
 
 
 ### Education
-**University of Chinese Academy of Sciences** 09/2015-07/2021\
+**University of Chinese Academy of Sciences** 09/2015-07/2021.   
 Ph.D in Cyber Security
 
-**Indiana University Bloomington** 09/2018-09/2020\
+**Indiana University Bloomington** 09/2018-09/2020.  
 Joint Ph.D in Cyber Security
 
-**China University of Geosciences (Wuhan)** 09/2011-06/2015\
+**China University of Geosciences (Wuhan)** 09/2011-06/2015.  
 B.S in Information Security
 
 ### Publications
-<p><font size=4 face=bold>Chunling Han</font><font size=4>, Rui Xue. Differentially Private GANs by Adding Noise to Discriminator's Loss.</font> <font size=4 face=Italic>Computer and Security 2021</font></p>
+**Chunling Han**, Rui Xue. Differentially Private GANs by Adding Noise to Discriminator's Loss._Computer and Security 2021_.   
 
-<p><font size=4 face=bold>Chunling Han</font><font size=4>, Rui Xue. Private Global Generator Aggregation from Different Types of Local Models.</font> <font size=4 face=Italic>SecureComm 2020</font></p>
+**Chunling Han**, Rui Xue. Private Global Generator Aggregation from Different Types of Local Models. _SecureComm 2020_.  
 
-<p><font size=4 face=bold>Chunling Han</font><font size=4>, Rui Xue, Rui Zhang, Xueqing Wang. A New Audio Steganalysis Method based on Linear Prediction.</font> <font size=4 face=Italic>Multimedia Tools and Applications 2018</font></p>
+**Chunling Han**, Rui Xue, Rui Zhang, Xueqing Wang. A New Audio Steganalysis Method based on Linear Prediction. _Multimedia Tools and Applications 2018_.  
 
-<p><font size=4>Jun Song, </font><font size=4 face=bold>Chunling Han</font><font size=4>, Kaixin Wang, et al. A Integrated Static Detection and Analyis Framework for Android.</font> <font size=4 face=Italic>Pervasive & Mobile Computing 2016</font></p>
+Jun Song, **Chunling Han**, Kaixin Wang, et al. A Integrated Static Detection and Analyis Framework for Android. _Pervasive & Mobile Computing 2016_.  
 
-Jun Song, **Chunling Han**, Kaixin Wang, et al. A Integrated Static Detection and Analyis Framework for Android. _Pervasive & Mobile Computing 2016_\
+**Patent:** Access Control System for Machine Learning Applications by using Attribute Based Encryption. No.ZL201811244604.5.  
 
 ### Project Experience
-**National Undergraduate Entrepreneurship Program: Security Enhancement for Android.**\
+**National Undergraduate Entrepreneurship Program: Security Enhancement for Android.**.  
 Designed an integrated static detection and analysis framework for android application security.
 
-<p><font face=bold>College Students' Independent Innovation Plan Research Project.</font> Designed a security enhancement for Android APPs using re-packing technique.</p>
+**College Students' Independent Innovation Plan Research Project.**.     
+Designed a security enhancement for Android APPs using re-packing technique.
 
-<p><font face=bold>Attended the 2014 Summer Camp of Fudan University for outstanding Computer Science undergraduates</font></p>
+**Attended the 2014 Summer Camp of Fudan University for outstanding Computer Science undergraduates.**.  
 
 
 ### Research Experience
-
-
-
+**Research Assistent** at State Key Laboratory of Information Security,  Institute of Information Engieering, CAS in UCAS. 2016-2018,2018-2021
+**Security Engineer Intern** in Lenovo Global Security Lab.
 
 ### Hobbies and Stories
+I am a pearl jewllry designer.  
+My google scholar page is [here].(https://scholar.google.com/citations?hl=en&user=af0QauAAAAAJ).   
+My linkin profile page is [here].   
+Follow me on [Instagram] and [Twitter].    
 
-
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChunlingHan/chunlinghan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
