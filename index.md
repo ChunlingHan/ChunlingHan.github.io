@@ -2,10 +2,10 @@
 
 <table border="0">
   <tr>
-    <td width="35%">
+    <td width="25%">
       <img src="/files/Professional.jpg" width="100%"> 
     </td>
-    <td width="85%">
+    <td width="75%">
       <h1>About Me</h1>
       <p><b><font size="4">Dr. in Cyber Security.</b></p>
       <p><b>Cyber Security scientist in Lenovo Global Security Lab.</b></p>
