@@ -30,7 +30,9 @@ B.S in Information Security
 <font size=4 face=bold>Chunling Han</font><font size=4>, Rui Xue. Differentially Private GANs by Adding Noise to Discriminator's Loss.</font> <font size=4 face=Italic>Computer and Security 2021</font>
 
 
+
 <font size=4 face=bold>Chunling Han</font><font size=4>, Rui Xue. Private Global Generator Aggregation from Different Types of Local Models.</font> <font size=4 face=Italic>SecureComm 2020</font>
+
 
 
 <font size=4 face=bold>Chunling Han</font><font size=4>, Rui Xue, Rui Zhang, Xueqing Wang. A New Audio Steganalysis Method based on Linear Prediction.</font> <font size=4 face=Italic>Multimedia Tools and Applications 2018</font>
