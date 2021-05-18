@@ -16,17 +16,17 @@
 </table>
 
 
-## Education
-### <font color=black>University of Chinese Academy of Sciences. 09/2015-07/2021</font>
+### Education
+<font color=black>University of Chinese Academy of Sciences. 09/2015-07/2021</font>
 Ph.D in Cyber Security
 
-### <font color=black>Indiana University Bloomington. 09/2018-09/2020</font>
+<font color=black>Indiana University Bloomington. 09/2018-09/2020</font>
 Joint Ph.D in Cyber Security
 
-### <font color=black>China University of Geosciences (Wuhan). 09/2011-06/2015</font>
+<font color=black>China University of Geosciences (Wuhan). 09/2011-06/2015</font>
 B.S in Information Security
 
-## Publications
+### Publications
 <font size=4 face=bold>Chunling Han</font><font size=4>, Rui Xue. Differentially Private GANs by Adding Noise to Discriminator's Loss.</font> <font size=4 face=Italic>Computer and Security 2021</font>
 
 
