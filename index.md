@@ -20,13 +20,13 @@
 
 
 ### Education
-<font face=bold>University of Chinese Academy of Sciences</font><font size=4> 09/2015-07/2021</font><br>
+**University of Chinese Academy of Sciences** 09/2015-07/2021\
 Ph.D in Cyber Security
 
-<font face=bold>Indiana University Bloomington</font> 09/2018-09/2020<br>
+**Indiana University Bloomington** 09/2018-09/2020\
 Joint Ph.D in Cyber Security
 
-<font face=bold>China University of Geosciences (Wuhan)</font> 09/2011-06/2015<br>
+**China University of Geosciences (Wuhan)** 09/2011-06/2015\
 B.S in Information Security
 
 ### Publications
@@ -38,9 +38,11 @@ B.S in Information Security
 
 <p><font size=4>Jun Song, </font><font size=4 face=bold>Chunling Han</font><font size=4>, Kaixin Wang, et al. A Integrated Static Detection and Analyis Framework for Android.</font> <font size=4 face=Italic>Pervasive & Mobile Computing 2016</font></p>
 
+Jun Song, **Chunling Han**, Kaixin Wang, et al. A Integrated Static Detection and Analyis Framework for Android. _Pervasive & Mobile Computing 2016_\
 
 ### Project Experience
-<p><font face=bold>National Undergraduate Entrepreneurship Program: Security Enhancement for Android.</font> Designed an integrated static detection and analysis framework for android application security.</p>
+**National Undergraduate Entrepreneurship Program: Security Enhancement for Android.**\
+Designed an integrated static detection and analysis framework for android application security.
 
 <p><font face=bold>College Students' Independent Innovation Plan Research Project.</font> Designed a security enhancement for Android APPs using re-packing technique.</p>
 
