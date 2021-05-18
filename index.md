@@ -17,13 +17,13 @@
 
 
 ### Education
-<font color=black>University of Chinese Academy of Sciences. 09/2015-07/2021</font>
+<font color=black>University of Chinese Academy of Sciences</font> 09/2015-07/2021
 Ph.D in Cyber Security
 
-<font color=black>Indiana University Bloomington. 09/2018-09/2020</font>
+<font color=black>Indiana University Bloomington</font> 09/2018-09/2020
 Joint Ph.D in Cyber Security
 
-<font color=black>China University of Geosciences (Wuhan). 09/2011-06/2015</font>
+<font color=black>China University of Geosciences (Wuhan)</font> 09/2011-06/2015
 B.S in Information Security
 
 ### Publications
@@ -33,7 +33,7 @@ B.S in Information Security
 
 <p><font size=4 face=bold>Chunling Han</font><font size=4>, Rui Xue, Rui Zhang, Xueqing Wang. A New Audio Steganalysis Method based on Linear Prediction.</font> <font size=4 face=Italic>Multimedia Tools and Applications 2018</font></p>
 
-<p><font size=4 face=bold>Jun Song</font><font size=4>, C, Rui Zhang, Xueqing Wang. A New Audio Steganalysis Method based on Linear Prediction.</font> <font size=4 face=Italic>Multimedia Tools and Applications 2018</font></p>
+<p><font size=4>Jun Song, </font><font size=4 face=bold>Chunling Han</font><font size=4>, Kaixin Wang, et al. A Integrated Static Detection and Analyis Framework for Android.</font> <font size=4 face=Italic>Pervasive \& Mobile Computing 2016</font></p>
 
 
 ### Awards
