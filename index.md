@@ -33,9 +33,10 @@ B.S in Information Security
 
 <p><font size=4 face=bold>Chunling Han</font><font size=4>, Rui Xue, Rui Zhang, Xueqing Wang. A New Audio Steganalysis Method based on Linear Prediction.</font> <font size=4 face=Italic>Multimedia Tools and Applications 2018</font></p>
 
+<p><font size=4 face=bold>Jun Song</font><font size=4>, C, Rui Zhang, Xueqing Wang. A New Audio Steganalysis Method based on Linear Prediction.</font> <font size=4 face=Italic>Multimedia Tools and Applications 2018</font></p>
 
-## Header 2
-### Header 3
+
+### Awards
 
 - Bulleted
 - List
