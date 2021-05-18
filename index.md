@@ -7,7 +7,7 @@
     </td>
     <td width="75%">
       <h1>About Me</h1>
-      <p><b><font size="4">Dr. in Cyber Security.</b></p>
+      <p><b>Dr. in Cyber Security.</b></p>
       <p><b>Cyber Security scientist in Lenovo Global Security Lab.</b></p>
     </td>
     
