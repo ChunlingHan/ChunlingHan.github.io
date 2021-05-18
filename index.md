@@ -20,13 +20,13 @@
 
 
 ### Education
-<font face=bold>University of Chinese Academy of Sciences</font><font size=4> 09/2015-07/2021</font>
+<font face=bold>University of Chinese Academy of Sciences</font><font size=4> 09/2015-07/2021</font><br>
 Ph.D in Cyber Security
 
-<font face=bold>Indiana University Bloomington</font> 09/2018-09/2020
+<font face=bold>Indiana University Bloomington</font> 09/2018-09/2020<br>
 Joint Ph.D in Cyber Security
 
-<font face=bold>China University of Geosciences (Wuhan)</font> 09/2011-06/2015
+<font face=bold>China University of Geosciences (Wuhan)</font> 09/2011-06/2015<br>
 B.S in Information Security
 
 ### Publications
