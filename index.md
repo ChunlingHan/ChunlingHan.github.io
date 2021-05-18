@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="35%">
-      <img src="/Professional.jpg" width="100%"> 
+      <img src="/files/Professional.jpg" width="100%"> 
     </td>
     <td width="85%">
       <h1>About Me</h1>
