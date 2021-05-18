@@ -17,7 +17,7 @@
 
 
 ## Education
-### University of Chinese Academy of Sciences. 09/2015-07/2021
+### <font color=black>University of Chinese Academy of Sciences. 09/2015-07/2021</font>
 Ph.D in Cyber Security
 
 ### Indiana University Bloomington. 09/2018-09/2020
