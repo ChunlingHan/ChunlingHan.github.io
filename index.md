@@ -20,7 +20,7 @@
 
 
 ### Education
-<font face=bold>University of Chinese Academy of Sciences</font> 09/2015-07/2021
+<font face=bold>University of Chinese Academy of Sciences</font><font size=4> 09/2015-07/2021</font>
 Ph.D in Cyber Security
 
 <font face=bold>Indiana University Bloomington</font> 09/2018-09/2020
@@ -36,7 +36,7 @@ B.S in Information Security
 
 <p><font size=4 face=bold>Chunling Han</font><font size=4>, Rui Xue, Rui Zhang, Xueqing Wang. A New Audio Steganalysis Method based on Linear Prediction.</font> <font size=4 face=Italic>Multimedia Tools and Applications 2018</font></p>
 
-<p><font size=4>Jun Song, </font><font size=4 face=bold>Chunling Han</font><font size=4>, Kaixin Wang, et al. A Integrated Static Detection and Analyis Framework for Android.</font> <font size=4 face=Italic>Pervasive \& Mobile Computing 2016</font></p>
+<p><font size=4>Jun Song, </font><font size=4 face=bold>Chunling Han</font><font size=4>, Kaixin Wang, et al. A Integrated Static Detection and Analyis Framework for Android.</font> <font size=4 face=Italic>Pervasive & Mobile Computing 2016</font></p>
 
 
 ### Project Experience
@@ -44,7 +44,7 @@ B.S in Information Security
 
 <p><font face=bold>College Students' Independent Innovation Plan Research Project.</font> Designed a security enhancement for Android APPs using re-packing technique.</p>
 
-<p><font face=bold>Attended the 2014 Summer Camp of Fudan University for outstanding Computer Science undergraduates</p>
+<p><font face=bold>Attended the 2014 Summer Camp of Fudan University for outstanding Computer Science undergraduates</font></p>
 
 
 ### Research Experience
