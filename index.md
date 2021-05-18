@@ -20,10 +20,10 @@
 ### <font color=black>University of Chinese Academy of Sciences. 09/2015-07/2021</font>
 Ph.D in Cyber Security
 
-### Indiana University Bloomington. 09/2018-09/2020
+### <font color=black>Indiana University Bloomington. 09/2018-09/2020</font>
 Joint Ph.D in Cyber Security
 
-### China University of Geosciences (Wuhan). 09/2011-06/2015
+### <font color=black>China University of Geosciences (Wuhan). 09/2011-06/2015</font>
 Bachelar in Information Security
 
 # Header 1
