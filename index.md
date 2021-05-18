@@ -20,13 +20,13 @@
 
 
 ### Education
-<font color=black>University of Chinese Academy of Sciences</font> 09/2015-07/2021
+<font face=bold>University of Chinese Academy of Sciences</font> 09/2015-07/2021
 Ph.D in Cyber Security
 
-<font color=black>Indiana University Bloomington</font> 09/2018-09/2020
+<font face=bold>Indiana University Bloomington</font> 09/2018-09/2020
 Joint Ph.D in Cyber Security
 
-<font color=black>China University of Geosciences (Wuhan)</font> 09/2011-06/2015
+<font face=bold>China University of Geosciences (Wuhan)</font> 09/2011-06/2015
 B.S in Information Security
 
 ### Publications
@@ -40,13 +40,11 @@ B.S in Information Security
 
 
 ### Project Experience
-<p>National Undergraduate Entrepreneurship Program: Security Enhancement for Android.</p>
-<p>   Designed an integrated static detection and analysis framework for android application security.</p>
+<p><font face=bold>National Undergraduate Entrepreneurship Program: Security Enhancement for Android.</font> Designed an integrated static detection and analysis framework for android application security.</p>
 
-<p>College Students' Independent Innovation Plan Research Project.</p>
-<p>   Designed a security enhancement for Android APPs using re-packing technique.</p>
+<p><font face=bold>College Students' Independent Innovation Plan Research Project.</font> Designed a security enhancement for Android APPs using re-packing technique.</p>
 
-<p>Attended the 2014 Summer Camp of Fudan University for outstanding Computer Science undergraduates</p>
+<p><font face=bold>Attended the 2014 Summer Camp of Fudan University for outstanding Computer Science undergraduates</p>
 
 
 ### Research Experience
