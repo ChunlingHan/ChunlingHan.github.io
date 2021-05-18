@@ -15,6 +15,9 @@
   </tr>
 </table>
 
+### News
+<p>On 9th May 2021, I passed my disertation defense, I am going to receive my ph.D degree!</p>
+
 
 ### Education
 <font color=black>University of Chinese Academy of Sciences</font> 09/2015-07/2021
@@ -36,10 +39,24 @@ B.S in Information Security
 <p><font size=4>Jun Song, </font><font size=4 face=bold>Chunling Han</font><font size=4>, Kaixin Wang, et al. A Integrated Static Detection and Analyis Framework for Android.</font> <font size=4 face=Italic>Pervasive \& Mobile Computing 2016</font></p>
 
 
-### Awards
+### Project Experience
+<p>National Undergraduate Entrepreneurship Program: Security Enhancement for Android.</p>
+<p>   Designed an integrated static detection and analysis framework for android application security.</p>
 
-- Bulleted
-- List
+<p>College Students' Independent Innovation Plan Research Project.</p>
+<p>   Designed a security enhancement for Android APPs using re-packing technique.</p>
+
+<p>Attended the 2014 Summer Camp of Fudan University for outstanding Computer Science undergraduates</p>
+
+
+### Research Experience
+
+
+
+
+### Hobbies and Stories
+
+
 
 1. Numbered
 2. List
