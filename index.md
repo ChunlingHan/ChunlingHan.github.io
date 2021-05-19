@@ -8,7 +8,7 @@
     <td width="75%">
       <h1>About Me</h1>
       <p><b>Dr. in Cyber Security.</b></p>
-      <p><b>Cyber Security scientist in Lenovo Global Security Lab.</b></p>
+      <p><b>Cyber Security Researcher in Lenovo Global Security Lab.</b></p>
       <p><b>My contact is: hanchunling@iie.ac.cn</b></p>
     </td>
     
@@ -56,12 +56,14 @@ Designed a security enhancement for Android APPs using re-packing technique.
 
 
 ### Research Experience
-**Research Assistent** at State Key Laboratory of Information Security,  Institute of Information Engieering, CAS in UCAS. 2016-2018,2018-2021           
-**Security Engineer Intern** in Lenovo Global Security Lab.
+**Research Assistent** at State Key Laboratory of Information Security, Institute of Information Engieering, CAS in UCAS. (2016-2018,2018-2021)   
+
+**Security Engineer Intern** in Lenovo Global Security Lab (12/2020-03/2021).
 
 ### Hobbies and Stories
 I am a pearl jewllry designer.  
-My google scholar page is [here].(https://scholar.google.com/citations?hl=en&user=af0QauAAAAAJ).   
+My google scholar page is [here][google scholar] 
 My linkin profile page is [here].   
 Follow me on [Instagram] and [Twitter].    
 
+[google scholar]:https://scholar.google.com/citations?hl=en&user=af0QauAAAAAJ
