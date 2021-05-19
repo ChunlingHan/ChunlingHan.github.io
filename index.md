@@ -36,13 +36,13 @@ B.S in Information Security
 
 
 ### Publications
-**Chunling Han**, Rui Xue. Differentially Private GANs by Adding Noise to Discriminator's Loss._Computer and Security 2021_. [[paper]][paper1].  
+**Chunling Han**, Rui Xue. Differentially Private GANs by Adding Noise to Discriminator's Loss._Computer and Security 2021_. [link][paper1].  
 
-**Chunling Han**, Rui Xue. Private Global Generator Aggregation from Different Types of Local Models. _SecureComm 2020_. [[paper]][paper2] <a href = "/file/paper2.pdf">[Download Pdf]</a>   
+**Chunling Han**, Rui Xue. Private Global Generator Aggregation from Different Types of Local Models. _SecureComm 2020_. [link][paper2]  <a href = "/file/paper2.pdf">[Download Pdf]</a>.   
 
-**Chunling Han**, Rui Xue, Rui Zhang, Xueqing Wang. A New Audio Steganalysis Method based on Linear Prediction. _Multimedia Tools and Applications 2018_. [[paper]][paper3].    
+**Chunling Han**, Rui Xue, Rui Zhang, Xueqing Wang. A New Audio Steganalysis Method based on Linear Prediction. _Multimedia Tools and Applications 2018_. [paper][paper3] <a href = "/file/paper3.pdf">[Download Pdf]</a>.    
 
-Jun Song, **Chunling Han**, Kaixin Wang, et al. A Integrated Static Detection and Analyis Framework for Android. _Pervasive & Mobile Computing 2016_. [[paper]][paper4]  
+Jun Song, **Chunling Han**, Kaixin Wang, et al. A Integrated Static Detection and Analyis Framework for Android. _Pervasive & Mobile Computing 2016_. [paper][paper4]  <a href = "/file/paper4.pdf">[Download Pdf]</a>.  
 
 **Patent:** Access Control System for Machine Learning Applications by using Attribute Based Encryption. No.ZL201811244604.5.  
 
