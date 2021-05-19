@@ -20,7 +20,8 @@ My research interestes lie in data privacy, privacy-preserving machine learning,
 
 
 ### News
-On 9th May 2021, I passed my disertation defense, I am going to receive my ph.D degree!
+**On 9th May 2021**, I passed my disertation defense, I am going to receive my Ph.D degree!     
+**In July 2021**, I will join Lenovo Global Security Lab, my position is Cyber Security Researcher.    
 
 
 ### Education
@@ -55,7 +56,7 @@ Designed a security enhancement for Android APPs using re-packing technique.
 
 
 ### Research Experience
-**Research Assistent** at State Key Laboratory of Information Security,  Institute of Information Engieering, CAS in UCAS. 2016-2018,2018-2021
+**Research Assistent** at State Key Laboratory of Information Security,  Institute of Information Engieering, CAS in UCAS. 2016-2018,2018-2021           
 **Security Engineer Intern** in Lenovo Global Security Lab.
 
 ### Hobbies and Stories
