@@ -61,9 +61,10 @@ Designed a security enhancement for Android APPs using re-packing technique.
 **Security Engineer Intern** in Lenovo Global Security Lab (12/2020-03/2021).
 
 ### Hobbies and Stories
-I am a pearl jewllry designer.  
+I am very into Fashion, now I am a pearl jewllry designer.  
 My google scholar page is [here][google scholar].  
-My linkin profile page is [here].   
+My LinkedIn profile page is [here][LinkedIn].   
 Follow me on [Instagram] and [Twitter].    
 
 [google scholar]:https://scholar.google.com/citations?hl=en&user=af0QauAAAAAJ
+[LinkedIn]:https://www.linkedin.com/in/chunling-han-104a86212/
