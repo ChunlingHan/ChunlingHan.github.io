@@ -62,7 +62,7 @@ Designed a security enhancement for Android APPs using re-packing technique.
 
 ### Hobbies and Stories
 I am a pearl jewllry designer.  
-My google scholar page is [here][google scholar] 
+My google scholar page is [here][google scholar].  
 My linkin profile page is [here].   
 Follow me on [Instagram] and [Twitter].    
 
