@@ -35,13 +35,13 @@ Joint Ph.D in Cyber Security
 B.S in Information Security
 
 ### Publications
-**Chunling Han**, Rui Xue. Differentially Private GANs by Adding Noise to Discriminator's Loss._Computer and Security 2021_.   
+**Chunling Han**, Rui Xue. Differentially Private GANs by Adding Noise to Discriminator's Loss._Computer and Security 2021_. [[paper]][paper1].  
 
-**Chunling Han**, Rui Xue. Private Global Generator Aggregation from Different Types of Local Models. _SecureComm 2020_.  
+**Chunling Han**, Rui Xue. Private Global Generator Aggregation from Different Types of Local Models. _SecureComm 2020_. [[paper]][paper2].   
 
-**Chunling Han**, Rui Xue, Rui Zhang, Xueqing Wang. A New Audio Steganalysis Method based on Linear Prediction. _Multimedia Tools and Applications 2018_.  
+**Chunling Han**, Rui Xue, Rui Zhang, Xueqing Wang. A New Audio Steganalysis Method based on Linear Prediction. _Multimedia Tools and Applications 2018_. [[paper]][paper3].    
 
-Jun Song, **Chunling Han**, Kaixin Wang, et al. A Integrated Static Detection and Analyis Framework for Android. _Pervasive & Mobile Computing 2016_.  
+Jun Song, **Chunling Han**, Kaixin Wang, et al. A Integrated Static Detection and Analyis Framework for Android. _Pervasive & Mobile Computing 2016_. [[paper]][paper4]  
 
 **Patent:** Access Control System for Machine Learning Applications by using Attribute Based Encryption. No.ZL201811244604.5.  
 
@@ -67,3 +67,7 @@ My LinkedIn profile page is [here][LinkedIn].
 
 [google scholar]:https://scholar.google.com/citations?hl=en&user=af0QauAAAAAJ
 [LinkedIn]:https://www.linkedin.com/in/chunling-han-104a86212/
+[paper1]:https://www.sciencedirect.com/science/article/pii/S0167404821001462
+[paper2]:https://link.springer.com/chapter/10.1007%2F978-3-030-63095-9_21
+[paper3]:https://link.springer.com/article/10.1007/s11042-017-5123-x
+[paper4]:https://www.sciencedirect.com/science/article/abs/pii/S1574119216000420
