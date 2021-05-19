@@ -64,7 +64,6 @@ Designed a security enhancement for Android APPs using re-packing technique.
 I am very into Fashion, now I am a pearl jewllry designer.  
 My google scholar page is [here][google scholar].  
 My LinkedIn profile page is [here][LinkedIn].   
-Follow me on [Instagram] and [Twitter].    
 
 [google scholar]:https://scholar.google.com/citations?hl=en&user=af0QauAAAAAJ
 [LinkedIn]:https://www.linkedin.com/in/chunling-han-104a86212/
