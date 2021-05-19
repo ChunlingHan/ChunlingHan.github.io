@@ -34,10 +34,11 @@ Joint Ph.D in Cyber Security
 **China University of Geosciences (Wuhan)** 09/2011-06/2015.  
 B.S in Information Security
 
+import Pdf1 from '/file/paper2.pdf';
 ### Publications
 **Chunling Han**, Rui Xue. Differentially Private GANs by Adding Noise to Discriminator's Loss._Computer and Security 2021_. [[paper]][paper1].  
 
-**Chunling Han**, Rui Xue. Private Global Generator Aggregation from Different Types of Local Models. _SecureComm 2020_. [[paper]][paper2].   
+**Chunling Han**, Rui Xue. Private Global Generator Aggregation from Different Types of Local Models. _SecureComm 2020_. [[paper]][paper2]<a href = {Pdf1}>PDF</a>.   
 
 **Chunling Han**, Rui Xue, Rui Zhang, Xueqing Wang. A New Audio Steganalysis Method based on Linear Prediction. _Multimedia Tools and Applications 2018_. [[paper]][paper3].    
 
