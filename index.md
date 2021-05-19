@@ -34,7 +34,7 @@ Joint Ph.D in Cyber Security
 **China University of Geosciences (Wuhan)** 09/2011-06/2015.  
 B.S in Information Security
 
-import Pdf1 from '/file/paper2.pdf';
+import {Pdf1} from '/file/paper2.pdf';
 ### Publications
 **Chunling Han**, Rui Xue. Differentially Private GANs by Adding Noise to Discriminator's Loss._Computer and Security 2021_. [[paper]][paper1].  
 
