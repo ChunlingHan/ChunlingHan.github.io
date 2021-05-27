@@ -36,7 +36,7 @@ B.S in Information Security
 
 
 ### Publications
-**Chunling Han**, Rui Xue. Differentially Private GANs by Adding Noise to Discriminator's Loss._Computer and Security 2021_. [Online][paper1].  
+**Chunling Han**, Rui Xue. Differentially Private GANs by Adding Noise to Discriminator's Loss._Computer and Security 2021_. <a href = "/file/paper2.pdf">[PDF]</a>                
 
 **Chunling Han**, Rui Xue. Private Global Generator Aggregation from Different Types of Local Models. _SecureComm 2020_. <a href = "/file/paper2.pdf">[PDF]</a>.   
 
