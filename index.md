@@ -57,7 +57,7 @@ Designed a security enhancement for Android APPs using re-packing technique.
 
 
 ### Research Experience
-**Research Assistent** at State Key Laboratory of Information Security, Institute of Information Engieering, CAS in UCAS. (2016-2018, 2018-2021)  
+**Research Assistant** at State Key Laboratory of Information Security, Institute of Information Engieering, CAS in UCAS. (2016-2018, 2018-2021)  
 
 **Security Engineer Intern** in Lenovo Global Security Lab (12/2020-03/2021).
 
