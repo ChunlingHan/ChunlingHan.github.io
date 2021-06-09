@@ -53,11 +53,11 @@ Designed an integrated static detection and analysis framework for android appli
 **College Students' Independent Innovation Plan Research Project**.     
 Designed a security enhancement for Android APPs using re-packing technique.
 
-**Attended the 2014 Summer Camp of Fudan University for outstanding Computer Science undergraduates.** 
+**Attended the 2014 Summer Camp of Fudan University for outstanding Computer Science undergraduates**.  
 
 
 ### Research Experience
-**Research Assistent** at State Key Laboratory of Information Security, Institute of Information Engieering, CAS in UCAS. (2016-2018, 2018-2021)   
+**Research Assistent** at State Key Laboratory of Information Security, Institute of Information Engieering, CAS in UCAS. (2016-2018, 2018-2021)  
 
 **Security Engineer Intern** in Lenovo Global Security Lab (12/2020-03/2021).
 
